@@ -37,6 +37,6 @@ team: false
 # e.g. has-played-before=false
 has-played-before: false
 
-placeholderapi: false
+placeholderapi: true
 placeholderapi-placeholders:
   allowflight: "%player_allow_flight%"
